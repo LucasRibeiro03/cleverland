@@ -1,0 +1,14 @@
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\bin\Debug\netcoreapp2.1\SENAI.Cleverland.deps.json
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\bin\Debug\netcoreapp2.1\SENAI.Cleverland.runtimeconfig.json
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\bin\Debug\netcoreapp2.1\SENAI.Cleverland.runtimeconfig.dev.json
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\bin\Debug\netcoreapp2.1\SENAI.Cleverland.dll
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\obj\Debug\netcoreapp2.1\SENAI.Cleverland.csprojAssemblyReference.cache
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\obj\Debug\netcoreapp2.1\SENAI.Cleverland.csproj.CoreCompileInputs.cache
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\obj\Debug\netcoreapp2.1\SENAI.Cleverland.RazorAssemblyInfo.cache
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\obj\Debug\netcoreapp2.1\SENAI.Cleverland.RazorAssemblyInfo.cs
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\obj\Debug\netcoreapp2.1\SENAI.Cleverland.AssemblyInfoInputs.cache
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\obj\Debug\netcoreapp2.1\SENAI.Cleverland.AssemblyInfo.cs
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\obj\Debug\netcoreapp2.1\SENAI.Cleverland.RazorTargetAssemblyInfo.cache
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\bin\Debug\netcoreapp2.1\SENAI.Cleverland.pdb
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\obj\Debug\netcoreapp2.1\SENAI.Cleverland.dll
+C:\Users\45848873810\Desktop\GE E LU\SENAI.Cleverland\SENAI.Cleverland\obj\Debug\netcoreapp2.1\SENAI.Cleverland.pdb
